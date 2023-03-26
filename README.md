@@ -9,3 +9,14 @@ https://stackoverflow.com/questions/48958035/pandas-convert-some-rows-to-columns
 
 To format the column headings for the resultant pivot table:  
 https://stackoverflow.com/questions/42099024/pandas-pivot-table-rename-columns
+
+I have also read thorugh numerous posts which gave me ideas on:  
+https://stackoverflow.com,  
+https://www.geeksforgeeks.org/  
+https://pandas.pydata.org/docs/getting_started/index.html#getting-started  
+https://pandas.pydata.org/docs/user_guide/indexing.html  
+https://pandas.pydata.org/docs/user_guide/merging.html
+https://pandas.pydata.org/docs/user_guide/reshaping.html  
+https://pandas.pydata.org/docs/user_guide/duplicates.html  
+https://pandas.pydata.org/docs/user_guide/integer_na.html  
+https://pandas.pydata.org/docs/user_guide/text.html
