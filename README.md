@@ -10,7 +10,7 @@ https://stackoverflow.com/questions/48958035/pandas-convert-some-rows-to-columns
 To format the column headings for the resultant pivot table:  
 https://stackoverflow.com/questions/42099024/pandas-pivot-table-rename-columns
 
-I have also read thorugh numerous posts which gave me ideas on:  
+I have also read thorugh numerous posts / sites which gave me ideas and helped fix issues:  
 https://stackoverflow.com,  
 https://www.geeksforgeeks.org/  
 https://pandas.pydata.org/docs/getting_started/index.html#getting-started  
